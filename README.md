@@ -1,16 +1,20 @@
+
 ### Hi there 👋
 
-<!--
-**Aishahsatouf/Aishahsatouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is  ✨ _Aishah Satouf_ ✨
 
-Here are some ideas to get you started:
+## Welcome to my GitHub account here's a few information about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📺 I’m  Interested in building full-stack web applications. Proficient in HTML, CSS, JavaScript, Node.js and React framework and interested and willingness to learn new languages and tools.
+
+- 💬 Ask me about any thing related to coding and health.
+
+- :scroll: My [ Resume ](https://drive.google.com/file/d/1DdJbVmDFJsA1PvDZYxcqv0KcnsrRfTyW/view?usp=sharing)
+
+- 📫 How to reach me:
+
+     - :incoming_envelope: [email](aishasattouf1996@gmail.com)
+
+     - :paperclip: [Linkedin](www.linkedin.com/in/aishah-satouf)
+
+- ⚡ Fun fact: I'm introverted but in an extrovert's way :alien:
