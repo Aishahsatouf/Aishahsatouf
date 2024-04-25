@@ -15,9 +15,20 @@
 
      - :incoming_envelope: [email](aishasattouf1996@gmail.com)
 
-     - :paperclip: [Linkedin](www.linkedin.com/in/aishah-satouf)
 
 - ⚡ Fun fact: I'm introverted but in an extrovert's way :alien:
+
+<br>
+<h2 align="center">           📝 social media📝</h2>
+  <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+<br>
+<p align="center"> feel free to contact me <br>
+most used online communication channels >~< xoxox</p>
+<p align="center"><a href="www.linkedin.com/in/aishah-satouf" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://discord.me/aisha4588" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishahsatouf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
