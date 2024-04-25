@@ -39,10 +39,7 @@ I love sharing my knowledge with others and am passionate  about building full-s
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/aishah-satouf"><img src="https://img.shields.io/badge/-Aishah%20Satouf%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/aishah-satouf" alt="LinkedIn Badge"></a> 
-       
-<a href="https://www.instagram.com/sattoufaisha"><img src="https://github.com/Aishahsatouf/Aishahsatouf/assets/71585705/a2aeb091-bde6-4dc1-8544-447a00f9ee95
-" alt="Instagram Badge"></a>
+  <a href="https://linkedin.com/in/aishah-satouf"><img src="https://img.shields.io/badge/-Aishah%20Satouf%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/aishah-satouf" alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Conecct section: END -->
