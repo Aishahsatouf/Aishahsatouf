@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://64c690b457789a0008290770--aishahportfolio.netlify.app/public/">Website</a> •
-  <a href="www.linkedin.com/in/aishah-satouf">Linked In</a>
+  <a href="https://www.linkedin.com/in/aishah-satouf/">Linked In</a>
 </p>
 
  <!-- About section -->
