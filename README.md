@@ -16,7 +16,7 @@
 ---
 ✨ I'm a full-stack engineer and  currently a Data analysis learner passionate about making technological learning easier for self-learners. 
 
-I love sharing my knowledge with others and am passionate  about building full-stack web applications. Proficient in HTML, CSS, JavaScript, Node.js, and React framework and interested and willing to learn new languages and tools.
+I love sharing my knowledge with others and am passionate  about building full-stack web applications. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/) Proficient in JavaScript, Node.js, python and React framework and interested and willing to learn new languages and tools.
 
 
 <!-- code gif-->
@@ -25,6 +25,8 @@ I love sharing my knowledge with others and am passionate  about building full-s
 - 😄 My Pronouns: She/Her   
 
 - 💬 Ask me about: React.js, Javascript, Shifting Career to Tech, Self-learning.
+
+- 🌱 I’m currently learning about Amazon Web services and data analytics for business , also the Japanese language😄
 
 - 📫 How to reach me: [@aishahSatouf_](aishasattouf1996@gmail.com)
 
@@ -61,7 +63,7 @@ I love sharing my knowledge with others and am passionate  about building full-s
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Aishahsatouf/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aishahsatouf&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Aishahsatouf/"><img alt="Aisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aishahsatouf&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
