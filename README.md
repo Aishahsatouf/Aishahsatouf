@@ -20,7 +20,7 @@ I love sharing my knowledge with others and am passionate  about building full-s
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 😄 My Pronouns: She/Her   
 
