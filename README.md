@@ -26,7 +26,7 @@
 <br>
 <p align="center"> feel free to contact me <br>
 most used online communication channels >~< xoxox</p>
-<p align="center"><a href="www.linkedin.com/in/aishah-satouf" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://discord.me/aisha4588" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="www.linkedin.com/in/aishah-satouf" target="_blank"><img src="https://img.shields.io/badge/AishahSatouf%20-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://discord.me/aisha4588" target="_blank"><img src="https://img.shields.io/badge/AishahSatouf%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 
