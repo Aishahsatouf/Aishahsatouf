@@ -28,7 +28,7 @@ I love sharing my knowledge with others and am passionate  about building full-s
 
 - 🌱 I’m currently learning about Amazon Web services and data analytics for business, also the Japanese language😄
 
-- 📫 How to reach me: [@aishahSatouf_](aishasattouf1996@gmail.com)
+- 📫 How to reach me: [@aishahSatouf](aishasattouf1996@gmail.com)
 
 - ⚡ Fun fact: I enjoy cooking and traveling at the same time like an introverted extrovert. 
 
@@ -49,8 +49,8 @@ I love sharing my knowledge with others and am passionate  about building full-s
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishahsatouf" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishahsatouf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="aisha's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishahsatouf" alt="Aisha's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishahsatouf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="aisha's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
