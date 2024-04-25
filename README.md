@@ -20,4 +20,4 @@
 - ⚡ Fun fact: I'm introverted but in an extrovert's way :alien:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishahsatouf&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishahsatouf&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
